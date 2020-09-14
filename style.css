@@ -11,6 +11,11 @@ header {
     margin-top: -16px;
 }
 
+.navbar img {
+    width: 15px;
+    height: 16px;
+}
+
 h1, h2, h3 {
     font-family: "Roboto", Helvetica;
     color: white;
@@ -59,7 +64,7 @@ aside ul {
 aside li img {
     display: inline-block;
     width: 325px;
-    height: 300px;
+    height: 280px;
     margin-left: -50px;
     margin-top: -15px;
     margin-right: 23px;
